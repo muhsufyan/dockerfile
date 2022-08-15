@@ -1,1 +1,0 @@
-FROM aplhine:3
